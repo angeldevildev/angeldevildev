@@ -42,3 +42,7 @@ I'm always open to new collaboration opportunities and interesting projects. Fee
 You can follow me on GitHub to stay updated on my projects and development activities. It would be a pleasure to connect with fellow developers and share knowledge and experiences.
 
 Thanks for visiting my profile! 👀
+
+## Github Stats 📊 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldevildev)](https://github.com/anuraghazra/github-readme-stats)
