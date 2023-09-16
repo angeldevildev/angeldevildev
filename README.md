@@ -23,12 +23,13 @@ I'm a tech enthusiast with a passion for creating extraordinary web experiences.
 - Building APIs with Express and Node.js.
 - Project management and code versioning with Git.
   
-<!--
+
 ## Projects 🚀
 
 Here are some of the projects I've worked on:
 
-- [Project Name 1](link_to_project1): A brief description of project 1.
+- [Car Rental](https://car-rental-angeldevil.vercel.app/)
+<!--
 - [Project Name 2](link_to_project2): A brief description of project 2.
 - [Project Name 3](link_to_project3): A brief description of project 3.
 -->
