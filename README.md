@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with expertise
 - 🌐 HTML
 - 🎨 CSS
 - 🚀 JavaScript
-- ⚛️ React
+- ⚛️ React and React Native
 - 🔄 Redux
 - 🌐 Express
 - 📦 Node.js
