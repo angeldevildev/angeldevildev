@@ -29,7 +29,6 @@ I'm a tech enthusiast with a passion for creating extraordinary web experiences.
 Here are some of the projects I've worked on:
 
 - [Car Rental](https://car-rental-angeldevil.vercel.app/)
-- 
 - [CryptX]
  <!-- (https://second-portfolio-six.vercel.app/) -->
  <!--
