@@ -29,7 +29,7 @@ I'm a tech enthusiast with a passion for creating extraordinary web experiences.
 Here are some of the projects I've worked on:
 
 - [Car Rental](https://car-rental-angeldevil.vercel.app/)
-- CryptX App
+- [Bank Website](https://bank-website-omega.vercel.app/)
  <!-- (https://second-portfolio-six.vercel.app/) -->
  <!--
 - [Project Name 3](link_to_project3): A brief description of project 3.
@@ -37,7 +37,7 @@ Here are some of the projects I've worked on:
 
 ## Get in Touch 📫
 
-I'm always open to new collaboration opportunities and interesting projects. Feel free to reach out to me via [email](mailto:info@mineshop.it) 📧 or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-name/](https://www.linkedin.com/in/angelo-broggian-78b734269/)) 💼 if you'd like to work together or simply have a chat.
+I'm always open to new collaboration opportunities and interesting projects. Feel free to reach out to me via [email](mailto:angelobroggian285@gmail.com) 📧 or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-name/](https://www.linkedin.com/in/angelo-broggian-78b734269/)) 💼 if you'd like to work together or simply have a chat.
 
 ## Follow Me 🔗
 
