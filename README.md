@@ -32,8 +32,9 @@ Here are some of the projects I've worked on:
 -->
 
 ## Get in Touch 📫
-
-I'm always open to new collaboration opportunities and interesting projects. Feel free to reach out to me via [email](mailto:angelobroggian285@gmail.com) 📧 or connect with me on [LinkedIn](https://www.linkedin.com/in/angelo-broggian-78b734269/) 💼 if you'd like to work together or simply have a chat.
+If you wanna work with me, contact me via email or Linkedin:
+- Email: [angelobroggian285@gmail.com](mailto:angelobroggian285@gmail.com)
+- Linkedin: [My Linkedin profile](https://www.linkedin.com/in/angelo-broggian-78b734269/)
 
 ## Github Stats 📊 
 
