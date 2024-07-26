@@ -39,4 +39,4 @@ If you wanna work with me, contact me via email or Linkedin:
 ## Github Stats 📊 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldevildev)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevildev&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevildev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
