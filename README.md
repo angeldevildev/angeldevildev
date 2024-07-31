@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a frontend developer with expertise in the fol
 - 🚀 JavaScript
 - ⚛️ React and React Native
 - 🔄 Redux
-- 🌐 Express
+- 🌐 Jest/Cypress
 - 📦 Node.js
 - 🐙 Git
 
