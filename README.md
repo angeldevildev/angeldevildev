@@ -40,6 +40,7 @@ If you wanna work with me, contact me via email or Linkedin:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldevildev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevildev&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevildev)]
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevildev&layout=compact) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevildev&layout=donut) -->
 
