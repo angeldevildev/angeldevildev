@@ -1,4 +1,4 @@
-Hi, I'm Angelo Broggian 👋
+#Hi, I'm Angelo Broggian 👋
 
 Welcome to my GitHub profile! I'm a frontend developer with expertise in the following technologies:
 
