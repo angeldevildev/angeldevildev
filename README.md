@@ -36,8 +36,8 @@ Projects that i finished ☑ / working on ⚙ / contribute ✍:
 If you wanna work with me, contact me via email or Linkedin:
 - Email: [angelobroggian285@gmail.com](mailto:angelobroggian285@gmail.com)
 - Linkedin: [My Linkedin profile](https://www.linkedin.com/in/angelo-broggian-78b734269/)
-- Patreon: [Link to my Patreon](patreon.com/Angeldevildev)
-- Buy me a Coffee: [Link to my Buy me a Coffee](buymeacoffee.com/angeldevildev)
+- Patreon: [Link to my Patreon](https://www.patreon.com/Angeldevildev)
+- Buy me a Coffee: [Link to my Buy me a Coffee](https://www.buymeacoffee.com/angeldevildev)
 - GitHub Sponsors: [Link to my GitHub Sponsors](https://github.com/sponsors/angeldevildev)
 
 ## Github Stats 📊 
