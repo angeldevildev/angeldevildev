@@ -1,4 +1,4 @@
-# Hi, I'm Angelo Broggian 👋
+![image](https://github.com/user-attachments/assets/1c1b593c-8c74-4de2-bb93-1c181985cb83)# Hi, I'm Angelo Broggian 👋
 
 Welcome to my GitHub profile! I'm a frontend developer with expertise in the following technologies:
 
@@ -21,12 +21,14 @@ Welcome to my GitHub profile! I'm a frontend developer with expertise in the fol
   
 ## Projects 🚀
 
-Here are some of the projects I've worked on:
-
-- [My Portfolio](https://www.codedoddle.com/)
-- [Bank Website](https://bank-website-omega.vercel.app/)
-- [Car Rental](https://car-rental-angeldevil.vercel.app/)
- <!-- (https://second-portfolio-six.vercel.app/) -->
+Projects that i finished ☑ / working on ⚙ / contribute ✍:
+- [My portfolio](https://github.com/angeldevildev/portfolio) ☑
+- [Car Rental](https://github.com/angeldevildev/car-rental) ☑
+- [Bank Website](https://github.com/angeldevildev/bank-website) ⚙
+- [Discord Bot](https://github.com/angeldevildev/bot-discord) ☑
+- [Notty](https://github.com/saarock/notty.js) ✍
+- [usehook-ts](https://github.com/juliencrn/usehooks-ts) ✍
+- [opensource.builders](https://github.com/junaid33/opensource.builders) ✍
  <!--
 - [Project Name 3](link_to_project3): A brief description of project 3.
 -->
@@ -35,6 +37,9 @@ Here are some of the projects I've worked on:
 If you wanna work with me, contact me via email or Linkedin:
 - Email: [angelobroggian285@gmail.com](mailto:angelobroggian285@gmail.com)
 - Linkedin: [My Linkedin profile](https://www.linkedin.com/in/angelo-broggian-78b734269/)
+- Patreon: [Link to my Patreon](patreon.com/Angeldevildev)
+- Buy me a Coffee: [Link to my Buy me a Coffee](buymeacoffee.com/angeldevildev)
+- GitHub Sponsors: [Link to my GitHub Sponsors](https://github.com/sponsors/angeldevildev)
 
 ## Github Stats 📊 
 
