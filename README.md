@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c1b593c-8c74-4de2-bb93-1c181985cb83)# Hi, I'm Angelo Broggian 👋
+Hi, I'm Angelo Broggian 👋
 
 Welcome to my GitHub profile! I'm a frontend developer with expertise in the following technologies:
 
