@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm the Walter White of frontend development, with
 - 🔄 **Redux**: Managing state like a boss, without any blue crystals.
 - 🌐 **Jest/Cypress**: Testing code like it’s about to go on a heist.
 - 📦 **Node.js**: Backend wizardry with fewer criminal activities.
+- 💾 **SQL**: Querying databases like Hank Schrader tracks down Heisenberg.
 - 🐙 **Git**: Version control as smooth as a Breaking Bad plot twist.
 
 ## What I Can Do 🛠️
