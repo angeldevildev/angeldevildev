@@ -28,15 +28,11 @@ Here’s a list of my projects, because my lab is always busy:
 
 If you wanna cook up some code with me, hit me up:
 
-- **Email**: [angelobroggian285@gmail.com](mailto:angelobroggian285@gmail.com) – No need for a secretive meeting in a junkyard.
 <p align="left">
 <a href="https://dev.to/angeldevildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="angeldevildev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angelo-broggian-78b734269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-broggian-78b734269" height="30" width="40" /></a>
 <a href="https://codesandbox.com/angeldevildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="angeldevildev" height="30" width="40" /></a>
 </p>
-
-- **Buy me a Coffee**: [Link to my Buy me a Coffee](https://www.buymeacoffee.com/angeldevildev) – Fuel for my next coding marathon.
-- **GitHub Sponsors**: [Link to my GitHub Sponsors](https://github.com/sponsors/angeldevildev) – Sponsor me to keep the code clean.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/angeldevildev" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="angeldevildev" /></a></p><br><br>
