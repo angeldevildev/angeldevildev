@@ -1,7 +1,8 @@
-# Hi! I am HEISENBERG (let me cook) 👋
+![html (1)](https://github.com/user-attachments/assets/fb83bfc4-067b-4f12-867a-8364008bcb32)# Hi! I am HEISENBERG (let me cook) 👋
 
 Welcome to my GitHub profile! I'm the Walter White of frontend development, with a little bit of Jesse Pinkman flair. Here’s what I cook up in the lab:
 
+![Upl<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="250px" viewBox="0 0 250 250" version="1.1">
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.411765%,30.980392%,14.901961%);fill-opacity:1;" d="M 46.109375 212.507812 L 28.554688 15.625 L 221.445312 15.625 L 203.867188 212.476562 L 124.882812 234.375 Z M 46.109375 212.507812 "/>
@@ -12,6 +13,8 @@ Welcome to my GitHub profile! I'm the Walter White of frontend development, with
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 124.914062 55.867188 L 124.914062 80.015625 L 183.242188 80.015625 L 183.726562 74.59375 L 184.828125 62.351562 L 185.40625 55.867188 Z M 124.914062 55.867188 "/>
 </g>
 </svg>
+oading html (1).svg…]()
+
 - 🎨 **CSS**: Designing with more style than a Heisenberg hat.
 - 🚀 **JavaScript**: Making your web apps go from 0 to 60 faster than a meth lab explosion.
 - ⚛️ **React and React Native**: Cooking up UI components with precision.
