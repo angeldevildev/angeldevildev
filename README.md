@@ -35,7 +35,7 @@ If you wanna cook up some code with me, hit me up:
 - **GitHub Sponsors**: [Link to my GitHub Sponsors](https://github.com/sponsors/angeldevildev) – Sponsor me to keep the code clean.
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/angeldevildev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="angeldevildev" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/angeldevildev" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="angeldevildev" /></a></p><br><br>
 
 
 ## Github Stats 📊 
