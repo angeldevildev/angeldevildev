@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm the Walter White of frontend development, with a little bit of Jesse Pinkman flair. Here’s what I cook up in the lab:
 
-- 🌐 **HTML**: Breaking bad conventions since 2010.
+![image](https://github.com/user-attachments/assets/a13cfe58-08e5-47fe-9368-af21795371a6)
 - 🎨 **CSS**: Designing with more style than a Heisenberg hat.
 - 🚀 **JavaScript**: Making your web apps go from 0 to 60 faster than a meth lab explosion.
 - ⚛️ **React and React Native**: Cooking up UI components with precision.
