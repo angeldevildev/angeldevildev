@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm the Walter White of frontend development, with a little bit of Jesse Pinkman flair. Here’s what I cook up in the lab:
 
-![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSItNy4wNCAtNy4wNCA0Ni4wOCA0Ni4wOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnL3N2ZyI+PGcgaWQ9IlNWR3BvX2JHcyIgLz48ZyBpZD0iU1ZHcG9fU3J0cyIgLz48ZyBpZD0iU1ZHcG9fU3J0cyIgLz48ZyBpZD0iU1ZHcG9fU3J0cyIgLz48cGF0aCBkPSJNNiAyOkw0IDNoMjhMMTYgMzFMMiA2bDE2IDI4IDYgMjguMCIgZmlsbD0iI0U0NEQyNiIvPjxwYXRoIGQ9Ik0yNiA1SDE2VjI5LjVMMjQgMjdMMjYgNVoiIGZpbGw9IiNGMTY1MjkiLz48cGF0aCBkPSJNOS41IDE3LjVMOC41IDhIMjRMVjI1TDE2IDI2TDEwIDI0TDkuNSA5LjdoMy4xNUMxMi41IDE4LjUtMTEuNSA4IDIzIDExLjVMMjMgMTkuNSAyMiAxNy41TDkuNSA4LjFIMTIuNVoiIGZpbGw9IndoaXRlIi8+PC9nPjwvc3ZnPg==" alt="Icona SVG" width="64" height="64">
+
 - 🎨 **CSS**: Designing with more style than a Heisenberg hat.
 - 🚀 **JavaScript**: Making your web apps go from 0 to 60 faster than a meth lab explosion.
 - ⚛️ **React and React Native**: Cooking up UI components with precision.
