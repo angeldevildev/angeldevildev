@@ -110,7 +110,7 @@ If you wanna cook up some code with me, hit me up:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/angeldevildev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="angeldevildev" /></a><a href="https://ko-fi.com/angeldevildev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="angeldevildev" /></a></p><br><br>
 
-### Github 📊
+### My GitHub Stats📊
 
 ![Angelo Broggian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeldevildev&show_icons=true&theme=radical)
 
