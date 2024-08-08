@@ -113,7 +113,7 @@ If you wanna cook up some code with me, hit me up:
 ## Github 📊
 
 ### Stats
-![Angelo Broggian's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeldevildev)
+![Angelo Broggian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeldevildev&show_icons=true&theme=radical)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldevildev&layout=compact&theme=radical)
